@@ -1,0 +1,1171 @@
+fileFormatVersion: 2
+guid: 3c1ad0f16d07cc247b72eae7eb34b2f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1721421136509805800
+    second: Ghost2_Death_full_0
+  - first:
+      213: -7902054319542862462
+    second: Ghost2_Death_full_1
+  - first:
+      213: -5957409862966244989
+    second: Ghost2_Death_full_2
+  - first:
+      213: 908105158096444336
+    second: Ghost2_Death_full_3
+  - first:
+      213: -440289583713763060
+    second: Ghost2_Death_full_4
+  - first:
+      213: 618521975910925217
+    second: Ghost2_Death_full_5
+  - first:
+      213: -6872061276959523789
+    second: Ghost2_Death_full_6
+  - first:
+      213: -4570101151054389667
+    second: Ghost2_Death_full_7
+  - first:
+      213: 1198814194136965188
+    second: Ghost2_Death_full_8
+  - first:
+      213: -4549511138463838318
+    second: Ghost2_Death_full_9
+  - first:
+      213: -3102787611608752056
+    second: Ghost2_Death_full_10
+  - first:
+      213: -1933363448465200417
+    second: Ghost2_Death_full_11
+  - first:
+      213: 2293136382938884895
+    second: Ghost2_Death_full_12
+  - first:
+      213: 7977018333622731417
+    second: Ghost2_Death_full_13
+  - first:
+      213: -2159081758850803205
+    second: Ghost2_Death_full_14
+  - first:
+      213: 2161451959087618940
+    second: Ghost2_Death_full_15
+  - first:
+      213: 65561773539058660
+    second: Ghost2_Death_full_16
+  - first:
+      213: -8828784529403224422
+    second: Ghost2_Death_full_17
+  - first:
+      213: -5829430031884802970
+    second: Ghost2_Death_full_18
+  - first:
+      213: 7231249186955670223
+    second: Ghost2_Death_full_19
+  - first:
+      213: -7464390014019223288
+    second: Ghost2_Death_full_20
+  - first:
+      213: -473020128737791451
+    second: Ghost2_Death_full_21
+  - first:
+      213: 7757720058491218748
+    second: Ghost2_Death_full_22
+  - first:
+      213: -6131911360954786149
+    second: Ghost2_Death_full_23
+  - first:
+      213: -9108304835850211936
+    second: Ghost2_Death_full_24
+  - first:
+      213: -6039390995496924699
+    second: Ghost2_Death_full_25
+  - first:
+      213: -6672571416151901433
+    second: Ghost2_Death_full_26
+  - first:
+      213: 7788690227811009127
+    second: Ghost2_Death_full_27
+  - first:
+      213: -8871166080273369654
+    second: Ghost2_Death_full_28
+  - first:
+      213: 2983152732052477366
+    second: Ghost2_Death_full_29
+  - first:
+      213: 9014422929941313169
+    second: Ghost2_Death_full_30
+  - first:
+      213: 7636469611697773569
+    second: Ghost2_Death_full_31
+  - first:
+      213: 1327697096184771211
+    second: Ghost2_Death_full_32
+  - first:
+      213: -6428882140078085398
+    second: Ghost2_Death_full_33
+  - first:
+      213: -9138055530574702794
+    second: Ghost2_Death_full_34
+  - first:
+      213: 8734944262514571801
+    second: Ghost2_Death_full_35
+  - first:
+      213: 8075185390751602040
+    second: Ghost2_Death_full_36
+  - first:
+      213: -8754073573754630876
+    second: Ghost2_Death_full_37
+  - first:
+      213: -920460593595962143
+    second: Ghost2_Death_full_38
+  - first:
+      213: -1643736191819204247
+    second: Ghost2_Death_full_39
+  - first:
+      213: -2668918265336223148
+    second: Ghost2_Death_full_40
+  - first:
+      213: -4945062371573018152
+    second: Ghost2_Death_full_41
+  - first:
+      213: 3350946915467752655
+    second: Ghost2_Death_full_42
+  - first:
+      213: 1617240340714300729
+    second: Ghost2_Death_full_43
+  - first:
+      213: 6471942984370990360
+    second: Ghost2_Death_full_44
+  - first:
+      213: -5458224370360050404
+    second: Ghost2_Death_full_45
+  - first:
+      213: -4887712393832500473
+    second: Ghost2_Death_full_46
+  - first:
+      213: -2187912961830994779
+    second: Ghost2_Death_full_47
+  - first:
+      213: 3156553667257194631
+    second: Ghost2_Death_full_48
+  - first:
+      213: -977635254798869846
+    second: Ghost2_Death_full_49
+  - first:
+      213: -7679627345982055254
+    second: Ghost2_Death_full_50
+  - first:
+      213: -1726031940659416068
+    second: Ghost2_Death_full_51
+  - first:
+      213: 4134883887653814585
+    second: Ghost2_Death_full_52
+  - first:
+      213: 1208363020313707587
+    second: Ghost2_Death_full_53
+  - first:
+      213: -4664994600800532504
+    second: Ghost2_Death_full_54
+  - first:
+      213: 8995079691622852258
+    second: Ghost2_Death_full_55
+  - first:
+      213: 7301036217830177547
+    second: Ghost2_Death_full_56
+  - first:
+      213: 2872374533593841838
+    second: Ghost2_Death_full_57
+  - first:
+      213: -6464820404830802134
+    second: Ghost2_Death_full_58
+  - first:
+      213: -3650613456495348138
+    second: Ghost2_Death_full_59
+  - first:
+      213: 6828056152923877408
+    second: Ghost2_Death_full_60
+  - first:
+      213: -1139900105194523641
+    second: Ghost2_Death_full_61
+  - first:
+      213: 466854989640893986
+    second: Ghost2_Death_full_62
+  - first:
+      213: 4519534168839405575
+    second: Ghost2_Death_full_63
+  - first:
+      213: -3218275295069868379
+    second: Ghost2_Death_full_64
+  - first:
+      213: 8174259895307182955
+    second: Ghost2_Death_full_65
+  - first:
+      213: -3811641814597444063
+    second: Ghost2_Death_full_66
+  - first:
+      213: -6883989464813728961
+    second: Ghost2_Death_full_67
+  - first:
+      213: -5889351110011802494
+    second: Ghost2_Death_full_68
+  - first:
+      213: -6019928732291868108
+    second: Ghost2_Death_full_69
+  - first:
+      213: 6810184104720533767
+    second: Ghost2_Death_full_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghost2_Death_full_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bdb79c8984c18e0800000000000000
+      internalID: -1721421136509805800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d7ec79673465290800000000000000
+      internalID: -7902054319542862462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3890d781b47035da0800000000000000
+      internalID: -5957409862966244989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbd90774dc3a9c00800000000000000
+      internalID: 908105158096444336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01cf64d4f6c3e9f0800000000000000
+      internalID: -440289583713763060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a381f3c57e659800800000000000000
+      internalID: 618521975910925217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c3c18ada881a0a0800000000000000
+      internalID: -6872061276959523789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e9ccf673db390c0800000000000000
+      internalID: -4570101151054389667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440ea31782b03a010800000000000000
+      internalID: 1198814194136965188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f0e2259b3ecd0c0800000000000000
+      internalID: -4549511138463838318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e3944b1fa0f4d0800000000000000
+      internalID: -3102787611608752056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdae180ef205b25e0800000000000000
+      internalID: -1933363448465200417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ba896046bd2df10800000000000000
+      internalID: 2293136382938884895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9928c5e09ef04be60800000000000000
+      internalID: 7977018333622731417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf91ca264966902e0800000000000000
+      internalID: -2159081758850803205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b5d7cda150ffd10800000000000000
+      internalID: 2161451959087618940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3e3aee51ce8e000800000000000000
+      internalID: 65561773539058660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ed4765f3bd97580800000000000000
+      internalID: -8828784529403224422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664238a8544b91fa0800000000000000
+      internalID: -5829430031884802970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc233de92de8a5460800000000000000
+      internalID: 7231249186955670223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801496d84d8296890800000000000000
+      internalID: -7464390014019223288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52279f6f2be7f69f0800000000000000
+      internalID: -473020128737791451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3baa418a45f8ab60800000000000000
+      internalID: 7757720058491218748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e9b100b1317eaa0800000000000000
+      internalID: -6131911360954786149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adec29720dc89180800000000000000
+      internalID: -9108304835850211936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e986bd33e5cf2ca0800000000000000
+      internalID: -6039390995496924699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b37d956a34663a0800000000000000
+      internalID: -6672571416151901433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7624b36fe7cf61c60800000000000000
+      internalID: 7788690227811009127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5bfc1937943e480800000000000000
+      internalID: -8871166080273369654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b559b8ba99466920800000000000000
+      internalID: 2983152732052477366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196b942f4e9a91d70800000000000000
+      internalID: 9014422929941313169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c9f4fe6a03af960800000000000000
+      internalID: 7636469611697773569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82396b797dec6210800000000000000
+      internalID: 1327697096184771211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaeac951c508c6a0800000000000000
+      internalID: -6428882140078085398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6371d4219ea1f2180800000000000000
+      internalID: -9138055530574702794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost2_Death_full_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a740ce681c83970800000000000000
+      internalID: 8734944262514571801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: eb956949d3ba9264e93ce3032eec0a80
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ghost2_Death_full_0: -1721421136509805800
+      Ghost2_Death_full_1: -7902054319542862462
+      Ghost2_Death_full_10: -3102787611608752056
+      Ghost2_Death_full_11: -1933363448465200417
+      Ghost2_Death_full_12: 2293136382938884895
+      Ghost2_Death_full_13: 7977018333622731417
+      Ghost2_Death_full_14: -2159081758850803205
+      Ghost2_Death_full_15: 2161451959087618940
+      Ghost2_Death_full_16: 65561773539058660
+      Ghost2_Death_full_17: -8828784529403224422
+      Ghost2_Death_full_18: -5829430031884802970
+      Ghost2_Death_full_19: 7231249186955670223
+      Ghost2_Death_full_2: -5957409862966244989
+      Ghost2_Death_full_20: -7464390014019223288
+      Ghost2_Death_full_21: -473020128737791451
+      Ghost2_Death_full_22: 7757720058491218748
+      Ghost2_Death_full_23: -6131911360954786149
+      Ghost2_Death_full_24: -9108304835850211936
+      Ghost2_Death_full_25: -6039390995496924699
+      Ghost2_Death_full_26: -6672571416151901433
+      Ghost2_Death_full_27: 7788690227811009127
+      Ghost2_Death_full_28: -8871166080273369654
+      Ghost2_Death_full_29: 2983152732052477366
+      Ghost2_Death_full_3: 908105158096444336
+      Ghost2_Death_full_30: 9014422929941313169
+      Ghost2_Death_full_31: 7636469611697773569
+      Ghost2_Death_full_32: 1327697096184771211
+      Ghost2_Death_full_33: -6428882140078085398
+      Ghost2_Death_full_34: -9138055530574702794
+      Ghost2_Death_full_35: 8734944262514571801
+      Ghost2_Death_full_4: -440289583713763060
+      Ghost2_Death_full_5: 618521975910925217
+      Ghost2_Death_full_6: -6872061276959523789
+      Ghost2_Death_full_7: -4570101151054389667
+      Ghost2_Death_full_8: 1198814194136965188
+      Ghost2_Death_full_9: -4549511138463838318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

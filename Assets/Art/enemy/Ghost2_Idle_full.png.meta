@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: b03a6f3628b2aad4082fde0a8a7e45fa
+guid: 604d7cc13f220584eb257c9c28f6c9a1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 955143128518842287
-    second: Ghost1_Idle_full_0
+      213: -3621829259781525934
+    second: Ghost2_Idle_full_0
   - first:
-      213: 7298900601573529741
-    second: Ghost1_Idle_full_1
+      213: -5079894466532262171
+    second: Ghost2_Idle_full_1
   - first:
-      213: -6664519034456868173
-    second: Ghost1_Idle_full_2
+      213: 5812900622064248006
+    second: Ghost2_Idle_full_2
   - first:
-      213: -762873784140292730
-    second: Ghost1_Idle_full_3
+      213: -6527269164430284799
+    second: Ghost2_Idle_full_3
   - first:
-      213: 8201197371115380168
-    second: Ghost1_Idle_full_4
+      213: 6548934209156437630
+    second: Ghost2_Idle_full_4
   - first:
-      213: -7966649278610969319
-    second: Ghost1_Idle_full_5
+      213: 7501725039917387742
+    second: Ghost2_Idle_full_5
   - first:
-      213: 1771142159349764057
-    second: Ghost1_Idle_full_6
+      213: 2521615329976084027
+    second: Ghost2_Idle_full_6
   - first:
-      213: -439570617251127541
-    second: Ghost1_Idle_full_7
+      213: 2293608429907646532
+    second: Ghost2_Idle_full_7
   - first:
-      213: -5902949426571984396
-    second: Ghost1_Idle_full_8
+      213: -465987069115345550
+    second: Ghost2_Idle_full_8
   - first:
-      213: -3542539194463113707
-    second: Ghost1_Idle_full_9
+      213: -3547461331324803391
+    second: Ghost2_Idle_full_9
   - first:
-      213: -631094434539170035
-    second: Ghost1_Idle_full_10
+      213: 5382235377167009339
+    second: Ghost2_Idle_full_10
   - first:
-      213: 6548764853184243637
-    second: Ghost1_Idle_full_11
+      213: 6814482701983601096
+    second: Ghost2_Idle_full_11
   - first:
-      213: 9104765339406630555
-    second: Ghost1_Idle_full_12
+      213: -3798712351939157114
+    second: Ghost2_Idle_full_12
   - first:
-      213: -100368483586375121
-    second: Ghost1_Idle_full_13
+      213: 8983156723967481282
+    second: Ghost2_Idle_full_13
   - first:
-      213: -3171129029321171504
-    second: Ghost1_Idle_full_14
+      213: -3579612341970949924
+    second: Ghost2_Idle_full_14
   - first:
-      213: -3736048115522894378
-    second: Ghost1_Idle_full_15
+      213: -1468514621994289720
+    second: Ghost2_Idle_full_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -117,7 +117,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -158,11 +158,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ghost1_Idle_full_0
+      name: Ghost2_Idle_full_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 191
+        y: 192
         width: 64
         height: 64
       alignment: 0
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa755056d99514d00800000000000000
-      internalID: 955143128518842287
+      spriteID: 25e2b9d3a7dacbdc0800000000000000
+      internalID: -3621829259781525934
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_1
+      name: Ghost2_Idle_full_1
       rect:
         serializedVersion: 2
         x: 64
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d88dca70d67ea4560800000000000000
-      internalID: 7298900601573529741
+      spriteID: 5ee3fd9a5e69089b0800000000000000
+      internalID: -5079894466532262171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_2
+      name: Ghost2_Idle_full_2
       rect:
         serializedVersion: 2
         x: 128
@@ -217,14 +217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ba7e509f3fd283a0800000000000000
-      internalID: -6664519034456868173
+      spriteID: 6c469c451529ba050800000000000000
+      internalID: 5812900622064248006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_3
+      name: Ghost2_Idle_full_3
       rect:
         serializedVersion: 2
         x: 192
@@ -239,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68d1cdfc55ab965f0800000000000000
-      internalID: -762873784140292730
+      spriteID: 108a5c4274b7a65a0800000000000000
+      internalID: -6527269164430284799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_4
+      name: Ghost2_Idle_full_4
       rect:
         serializedVersion: 2
         x: 0
@@ -261,14 +261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8cd1336ae8180d170800000000000000
-      internalID: 8201197371115380168
+      spriteID: e765c2a27fc72ea50800000000000000
+      internalID: 6548934209156437630
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_5
+      name: Ghost2_Idle_full_5
       rect:
         serializedVersion: 2
         x: 64
@@ -283,14 +283,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 91d6542b0b6c07190800000000000000
-      internalID: -7966649278610969319
+      spriteID: edfcdee8d2b7b1860800000000000000
+      internalID: 7501725039917387742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_6
+      name: Ghost2_Idle_full_6
       rect:
         serializedVersion: 2
         x: 128
@@ -305,14 +305,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9dfc2c6f86c549810800000000000000
-      internalID: 1771142159349764057
+      spriteID: b36676358c39ef220800000000000000
+      internalID: 2521615329976084027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_7
+      name: Ghost2_Idle_full_7
       rect:
         serializedVersion: 2
         x: 192
@@ -327,14 +327,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b0f1c014ad456e9f0800000000000000
-      internalID: -439570617251127541
+      spriteID: 4489c7607b884df10800000000000000
+      internalID: 2293608429907646532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_8
+      name: Ghost2_Idle_full_8
       rect:
         serializedVersion: 2
         x: 0
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f1c41e85c2841ea0800000000000000
-      internalID: -5902949426571984396
+      spriteID: 2755473ca3b7889f0800000000000000
+      internalID: -465987069115345550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_9
+      name: Ghost2_Idle_full_9
       rect:
         serializedVersion: 2
         x: 64
@@ -371,14 +371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 51ea02f2f5f56dec0800000000000000
-      internalID: -3542539194463113707
+      spriteID: 1c663f3e6b2e4cec0800000000000000
+      internalID: -3547461331324803391
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_10
+      name: Ghost2_Idle_full_10
       rect:
         serializedVersion: 2
         x: 128
@@ -393,14 +393,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d07119994f6ed37f0800000000000000
-      internalID: -631094434539170035
+      spriteID: b3684992f8a81ba40800000000000000
+      internalID: 5382235377167009339
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_11
+      name: Ghost2_Idle_full_11
       rect:
         serializedVersion: 2
         x: 192
@@ -415,14 +415,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b72c97efe2e1ea50800000000000000
-      internalID: 6548764853184243637
+      spriteID: 8c1d6cba9e7e19e50800000000000000
+      internalID: 6814482701983601096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_12
+      name: Ghost2_Idle_full_12
       rect:
         serializedVersion: 2
         x: 0
@@ -437,14 +437,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9efe9a46df9a5e70800000000000000
-      internalID: 9104765339406630555
+      spriteID: 68327ca0e33484bc0800000000000000
+      internalID: -3798712351939157114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_13
+      name: Ghost2_Idle_full_13
       rect:
         serializedVersion: 2
         x: 64
@@ -459,14 +459,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f22803d556b6b9ef0800000000000000
-      internalID: -100368483586375121
+      spriteID: 2c55eb512759aac70800000000000000
+      internalID: 8983156723967481282
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_14
+      name: Ghost2_Idle_full_14
       rect:
         serializedVersion: 2
         x: 128
@@ -481,14 +481,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ddd16ef2f2edf3d0800000000000000
-      internalID: -3171129029321171504
+      spriteID: cd8a7336a89a25ec0800000000000000
+      internalID: -3579612341970949924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_15
+      name: Ghost2_Idle_full_15
       rect:
         serializedVersion: 2
         x: 192
@@ -503,8 +503,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6d58d7a8804e62cc0800000000000000
-      internalID: -3736048115522894378
+      spriteID: 8c530985bb9ce9be0800000000000000
+      internalID: -1468514621994289720
       vertices: []
       indices: 
       edges: []
@@ -513,7 +513,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1a82c1bf119d7754a9b90407b87fd23e
+    spriteID: 0534110e1b857d749a12ec5821e2c869
     internalID: 0
     vertices: []
     indices: 
@@ -523,22 +523,22 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Ghost1_Idle_full_0: 955143128518842287
-      Ghost1_Idle_full_1: 7298900601573529741
-      Ghost1_Idle_full_10: -631094434539170035
-      Ghost1_Idle_full_11: 6548764853184243637
-      Ghost1_Idle_full_12: 9104765339406630555
-      Ghost1_Idle_full_13: -100368483586375121
-      Ghost1_Idle_full_14: -3171129029321171504
-      Ghost1_Idle_full_15: -3736048115522894378
-      Ghost1_Idle_full_2: -6664519034456868173
-      Ghost1_Idle_full_3: -762873784140292730
-      Ghost1_Idle_full_4: 8201197371115380168
-      Ghost1_Idle_full_5: -7966649278610969319
-      Ghost1_Idle_full_6: 1771142159349764057
-      Ghost1_Idle_full_7: -439570617251127541
-      Ghost1_Idle_full_8: -5902949426571984396
-      Ghost1_Idle_full_9: -3542539194463113707
+      Ghost2_Idle_full_0: -3621829259781525934
+      Ghost2_Idle_full_1: -5079894466532262171
+      Ghost2_Idle_full_10: 5382235377167009339
+      Ghost2_Idle_full_11: 6814482701983601096
+      Ghost2_Idle_full_12: -3798712351939157114
+      Ghost2_Idle_full_13: 8983156723967481282
+      Ghost2_Idle_full_14: -3579612341970949924
+      Ghost2_Idle_full_15: -1468514621994289720
+      Ghost2_Idle_full_2: 5812900622064248006
+      Ghost2_Idle_full_3: -6527269164430284799
+      Ghost2_Idle_full_4: 6548934209156437630
+      Ghost2_Idle_full_5: 7501725039917387742
+      Ghost2_Idle_full_6: 2521615329976084027
+      Ghost2_Idle_full_7: 2293608429907646532
+      Ghost2_Idle_full_8: -465987069115345550
+      Ghost2_Idle_full_9: -3547461331324803391
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

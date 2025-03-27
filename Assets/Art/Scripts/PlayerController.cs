@@ -2,14 +2,26 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public static PlayerController Instance;
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private float moveSpeed;
     [SerializeField] private Animator animator;
     public Vector3 playerMoveDirection;     // Update is called once per frame
+
+    void Awake()
+    {
+            if(Instance != null && Instance != this)
+            {
+                Destroy(this);
+            } else{
+                Instance = this;
+            }
+        
+    }
     void Update()
     {
-        float inputX = Input.GetAxis("Horizontal");
-        float inputY = Input.GetAxis("Vertical");
+        float inputX = Input.GetAxisRaw("Horizontal");
+        float inputY = Input.GetAxisRaw("Vertical");
         playerMoveDirection = new Vector3(inputX , inputY).normalized;
         animator.SetFloat("moveX",inputX);
         animator.SetFloat("moveY",inputY);

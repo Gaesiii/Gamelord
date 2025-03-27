@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: b03a6f3628b2aad4082fde0a8a7e45fa
+guid: a07bc0cc1f6e0924483428b4fa7814f0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 955143128518842287
-    second: Ghost1_Idle_full_0
+      213: 6189421445971091518
+    second: Demon2_Idle_0
   - first:
-      213: 7298900601573529741
-    second: Ghost1_Idle_full_1
+      213: -5508658150673363865
+    second: Demon2_Idle_1
   - first:
-      213: -6664519034456868173
-    second: Ghost1_Idle_full_2
+      213: 5073052823323332571
+    second: Demon2_Idle_2
   - first:
-      213: -762873784140292730
-    second: Ghost1_Idle_full_3
+      213: -9083785154172822204
+    second: Demon2_Idle_3
   - first:
-      213: 8201197371115380168
-    second: Ghost1_Idle_full_4
+      213: 6700352275736300595
+    second: Demon2_Idle_4
   - first:
-      213: -7966649278610969319
-    second: Ghost1_Idle_full_5
+      213: -421458439431050147
+    second: Demon2_Idle_5
   - first:
-      213: 1771142159349764057
-    second: Ghost1_Idle_full_6
+      213: -7937355910657999795
+    second: Demon2_Idle_6
   - first:
-      213: -439570617251127541
-    second: Ghost1_Idle_full_7
+      213: -4898119277170521851
+    second: Demon2_Idle_7
   - first:
-      213: -5902949426571984396
-    second: Ghost1_Idle_full_8
+      213: 7232292283343202883
+    second: Demon2_Idle_8
   - first:
-      213: -3542539194463113707
-    second: Ghost1_Idle_full_9
+      213: -5847865984559008646
+    second: Demon2_Idle_9
   - first:
-      213: -631094434539170035
-    second: Ghost1_Idle_full_10
+      213: 5026581439661484503
+    second: Demon2_Idle_10
   - first:
-      213: 6548764853184243637
-    second: Ghost1_Idle_full_11
+      213: 4857464704895096826
+    second: Demon2_Idle_11
   - first:
-      213: 9104765339406630555
-    second: Ghost1_Idle_full_12
+      213: -6074291546160881112
+    second: Demon2_Idle_12
   - first:
-      213: -100368483586375121
-    second: Ghost1_Idle_full_13
+      213: -7137151445515863368
+    second: Demon2_Idle_13
   - first:
-      213: -3171129029321171504
-    second: Ghost1_Idle_full_14
+      213: 1629671976307214669
+    second: Demon2_Idle_14
   - first:
-      213: -3736048115522894378
-    second: Ghost1_Idle_full_15
+      213: 5141310844825278775
+    second: Demon2_Idle_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,7 +96,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 14
+  spritePixelsToUnits: 6
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,7 +117,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -158,353 +158,353 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ghost1_Idle_full_0
+      name: Boss_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 191
-        width: 64
-        height: 64
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fa755056d99514d00800000000000000
-      internalID: 955143128518842287
+      spriteID: 5b7470b742fd66543890efa2547c5dc0
+      internalID: 830079791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_1
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d88dca70d67ea4560800000000000000
-      internalID: 7298900601573529741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost1_Idle_full_2
+      name: Boss_1
       rect:
         serializedVersion: 2
         x: 128
-        y: 192
-        width: 64
-        height: 64
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3ba7e509f3fd283a0800000000000000
-      internalID: -6664519034456868173
+      spriteID: 75df476d045592842a9c657f8b8fa48f
+      internalID: -836154351
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_3
+      name: Boss_2
       rect:
         serializedVersion: 2
-        x: 192
-        y: 192
-        width: 64
-        height: 64
+        x: 256
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 68d1cdfc55ab965f0800000000000000
-      internalID: -762873784140292730
+      spriteID: 5da8a6aa389a4c543a6352b65d246280
+      internalID: 470966048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_4
+      name: Boss_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf37b7418699f443b9d1a32521d4e93
+      internalID: 43424788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4f04fe2731ad241aec539a64ae83aa
+      internalID: 748849547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ea708913626b4db48844a15964415
+      internalID: 1927411887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e02355df8c67d45ab5fd905e3d76a6
+      internalID: 1610829057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 254
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef83698afca28354eb7ed04de9dbbcc2
+      internalID: -1776965071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_8
       rect:
         serializedVersion: 2
         x: 0
         y: 128
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8cd1336ae8180d170800000000000000
-      internalID: 8201197371115380168
+      spriteID: decd0bdea825a0440b280b8eeed17286
+      internalID: 1594212165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_5
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 91d6542b0b6c07190800000000000000
-      internalID: -7966649278610969319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost1_Idle_full_6
+      name: Boss_9
       rect:
         serializedVersion: 2
         x: 128
         y: 128
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9dfc2c6f86c549810800000000000000
-      internalID: 1771142159349764057
+      spriteID: c7624fae2bf9efe43b9e13cc1a97756f
+      internalID: 1114431344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_7
+      name: Boss_10
       rect:
         serializedVersion: 2
-        x: 192
+        x: 256
         y: 128
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b0f1c014ad456e9f0800000000000000
-      internalID: -439570617251127541
+      spriteID: aeea31bb189ecdc42bcc4907cb1e13a0
+      internalID: 302361997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_8
+      name: Boss_11
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 64
+        x: 384
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4f1c41e85c2841ea0800000000000000
-      internalID: -5902949426571984396
+      spriteID: 3f8e72e2c6e175841bb43a655b3f425c
+      internalID: 455722819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_9
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51ea02f2f5f56dec0800000000000000
-      internalID: -3542539194463113707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost1_Idle_full_10
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d07119994f6ed37f0800000000000000
-      internalID: -631094434539170035
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost1_Idle_full_11
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b72c97efe2e1ea50800000000000000
-      internalID: 6548764853184243637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost1_Idle_full_12
+      name: Boss_12
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b9efe9a46df9a5e70800000000000000
-      internalID: 9104765339406630555
+      spriteID: e41d7d9a91e1bf14b8b35b4f4cf0224c
+      internalID: 2109751244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_13
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f22803d556b6b9ef0800000000000000
-      internalID: -100368483586375121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost1_Idle_full_14
+      name: Boss_13
       rect:
         serializedVersion: 2
         x: 128
         y: 0
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0ddd16ef2f2edf3d0800000000000000
-      internalID: -3171129029321171504
+      spriteID: d08c6b4ce1c66044e8f212beaf07cf68
+      internalID: -1982692485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1_Idle_full_15
+      name: Boss_14
       rect:
         serializedVersion: 2
-        x: 192
+        x: 256
         y: 0
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6d58d7a8804e62cc0800000000000000
-      internalID: -3736048115522894378
+      spriteID: d7bc06552e021864a9315bb68f26f0cb
+      internalID: -1394034215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e71535c64c6de419b2e48c8f485102
+      internalID: 475141669
       vertices: []
       indices: 
       edges: []
@@ -513,7 +513,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1a82c1bf119d7754a9b90407b87fd23e
+    spriteID: 3fd24e9b9723b4a4491878f7f3601b0d
     internalID: 0
     vertices: []
     indices: 
@@ -523,22 +523,22 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Ghost1_Idle_full_0: 955143128518842287
-      Ghost1_Idle_full_1: 7298900601573529741
-      Ghost1_Idle_full_10: -631094434539170035
-      Ghost1_Idle_full_11: 6548764853184243637
-      Ghost1_Idle_full_12: 9104765339406630555
-      Ghost1_Idle_full_13: -100368483586375121
-      Ghost1_Idle_full_14: -3171129029321171504
-      Ghost1_Idle_full_15: -3736048115522894378
-      Ghost1_Idle_full_2: -6664519034456868173
-      Ghost1_Idle_full_3: -762873784140292730
-      Ghost1_Idle_full_4: 8201197371115380168
-      Ghost1_Idle_full_5: -7966649278610969319
-      Ghost1_Idle_full_6: 1771142159349764057
-      Ghost1_Idle_full_7: -439570617251127541
-      Ghost1_Idle_full_8: -5902949426571984396
-      Ghost1_Idle_full_9: -3542539194463113707
+      Boss_0: 830079791
+      Boss_1: -836154351
+      Boss_10: 302361997
+      Boss_11: 455722819
+      Boss_12: 2109751244
+      Boss_13: -1982692485
+      Boss_14: -1394034215
+      Boss_15: 475141669
+      Boss_2: 470966048
+      Boss_3: 43424788
+      Boss_4: 748849547
+      Boss_5: 1927411887
+      Boss_6: 1610829057
+      Boss_7: -1776965071
+      Boss_8: 1594212165
+      Boss_9: 1114431344
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
