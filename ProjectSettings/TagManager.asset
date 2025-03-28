@@ -51,5 +51,8 @@ TagManager:
   - name: ForceGround
     uniqueID: 4188224165
     locked: 0
+  - name: UI
+    uniqueID: 3808064807
+    locked: 0
   m_RenderingLayers:
   - Default
